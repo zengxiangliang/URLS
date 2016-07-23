@@ -8,7 +8,7 @@
 - [JS前端开发群规](http://www.kancloud.cn/jikeytang/qq/81145)
 - [bitbucket](https://bitbucket.org/)
 - [caniuse](http://caniuse.com/#index)
-
+- [百度CDN](http://cdn.code.baidu.com/)
 
 
 
