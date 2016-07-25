@@ -9,6 +9,12 @@
 - [bitbucket](https://bitbucket.org/)
 - [caniuse](http://caniuse.com/#index)
 - [百度CDN](http://cdn.code.baidu.com/)
+- [Device pixel density tests](https://bjango.com/articles/min-device-pixel-ratio/)
+- [检测当前浏览器支持的选择器selectors-test](http://tools.css3.info/selectors-test/test.html)
+- [visual studio code](http://i5ting.github.io/vsc/)
+- [overapi](http://overapi.com/)
+- [浏览器默认样式对比表](http://developer.doyoe.com/default-style/)
+- [CODELF-命名](http://unbug.github.io/codelf/#%E5%AF%BC%E8%88%AA)
 
 
 
@@ -24,6 +30,17 @@
 - [Flex 布局教程-阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 - [Emmet-cheat-sheet](http://docs.emmet.io/cheat-sheet/)
 - [flexbox全兼容模板](http://115.159.36.96/tikizheng/flextest/demo.html)
+- [利用css3-animation来制作逐帧动画](https://www.qianduan.net/css3-animation/)
+- [CSS3动画帧数计算器](http://tid.tenpay.com/labs/css3_keyframes_calculator.html)
+- [CSS3 Icons](http://www.uiplayground.in/css3-icons/)
+- [cubic-bezier](http://cubic-bezier.com/#.53,.09,.61,.95)
+- [css3 UI Lib](http://css3lib.alloyteam.com/#animation/AnimatedButtons)
+- [one-div](http://one-div.com/)
+- [icomoon](https://icomoon.io/app/#/select)
+- [css箭头](http://www.cssarrowplease.com/)
+- [CSS三角形生成器](CSS triangle generator)
+- [animation动画](http://www.w3cplus.com/blog/tags/29.html)
+
 
 
 
@@ -50,7 +67,6 @@
 ## 移动端
 - [Web移动端Fixed布局的解决方案](http://caibaojian.com/mobile-position-fixed.html)
 - [【原】移动web资源整理](http://www.cnblogs.com/PeunZhang/p/3407453.html)
-- [animation动画](http://www.w3cplus.com/blog/tags/29.html)
 
 
 
@@ -66,16 +82,6 @@
 
 
 
-## canvas
-- [canvas各种效果](https://github.com/whxaxes/canvas-test)
-- [MDN-Canvas教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial)
-- [Canvas之globalCompositeOperation属性详解](http://blog.csdn.net/laijieyao/article/details/41862473)
-- [Canvas在线练习](http://www.html5canvastutorials.com/tutorials/html5-canvas-paths/)
-
-
-
-
-
 
 ## JavaScript
 - [javascript this详解](http://hw1287789687.iteye.com/blog/2210588)
@@ -84,20 +90,39 @@
 - [MDN-JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [Velocity.js](http://velocityjs.org/#transforms)
 - [Velocity.js介绍-中文](http://www.open-open.com/lib/view/open1435212597935.html#articleHeader0)
-- [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 - [缓动函数easeing](http://easings.net/zh-cn)
 - [js兼容性查询](http://www.quirksmode.org/dom/)
-- [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/intro)
 - [jquery-API](http://jquery.cuishifeng.cn/index_1.html)
 - [swiper.js](http://www.swiper.com.cn/)
-- [AngularJS在线教程](http://each.sinaapp.com/angular/)
-- [ECMAscript6在线练习](http://matrix.h5jun.com/coding?id=54&le=3)
 - [12个JavaScript技巧](http://mp.weixin.qq.com/s?__biz=MjM5NzE0MjQ2Mw==&mid=505007950&idx=1&sn=19e8f5a837adee25a471cb8807a4fba6&scene=19#wechat_redirect)
 - [javascript算法、数组及web动画](http://mp.weixin.qq.com/mp/homepage?__biz=MjM5NzE0MjQ2Mw==&hid=3&sn=29ad5333a258516ffa2e997e865cd0f6&uin=NzM2MzI5MjQx&key=f5c31ae61525f82e2578dfb2e7d9cf1b25af3ce0d0a96b324769a61a05d73434ee35c458b5261174b8a0d25597998e16&devicetype=iPhone+OS9.3.2&version=16031312&lang=zh_CN&nettype=WIFI&fontScale=100&pass_ticket=92GSbrPt9KTmSEqAZ7CqbY2ZnnFbwClQwZR5Yne79OKkV%2ForkitXH4YdA27vkeX3&scene=2&from=timeline&isappinstalled=0&location=35)
-- [七天学会NodeJS](http://www.lvtao.net/content/book/node.js.htm)
 - [看云-电子书下载网站](http://www.kancloud.cn/explore?page=2)
 - [Json格式转换等](http://www.bejson.com/)
 - [Javascript中文网-很多电子书](http://www.javascriptcn.com/)
+- [介紹 | JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
+- [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
+- [layDate - js日期控件与时间插件官方讲解](http://laydate.layui.com/)
+- [JS封装类实现年月日三级联动下拉列表](http://www.jq22.com/demo/YMDClass20160221/)
+- [js对输入文字个数的限制…](http://itakeo.com/blog/2015/07/13/jstextarea/?none=123)
+#### AngularJS
+- [AngularJS在线教程](http://each.sinaapp.com/angular/)
+
+#### Canvas
+- [canvas各种效果](https://github.com/whxaxes/canvas-test)
+- [MDN-Canvas教程](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial)
+- [Canvas之globalCompositeOperation属性详解](http://blog.csdn.net/laijieyao/article/details/41862473)
+- [Canvas在线练习](http://www.html5canvastutorials.com/tutorials/html5-canvas-paths/)
+- [使用Chrome开发工具调试Canvas](http://sentsin.com/web/253.html)
+
+#### ES6
+- [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/intro)
+- [ECMAscript6在线练习](http://matrix.h5jun.com/coding?id=54&le=3)
+- [ECMAScript各版本浏览器支持度](http://kangax.github.io/compat-table/es6/)
+- [es6在线转换es5](https://babeljs.io/repl/)
+
+#### Nodejs
+- [七天学会NodeJS](http://www.lvtao.net/content/book/node.js.htm)
+- [国内Nodejs 2015汇总 - CNode技术社区](https://cnodejs.org/topic/5696e43e6272216e51bff67e)
 
 
 
