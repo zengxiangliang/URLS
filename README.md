@@ -18,6 +18,7 @@
 - [工具武装的前端开发工程师](https://segmentfault.com/a/1190000005994196)
 - [无线性能优化：Composite](http://taobaofed.org/blog/2016/04/25/performance-composite/)
 - [3D-css-tester](http://thewebrocks.com/demos/3D-css-tester/)
+- [webpack中文网站](https://webpack.vuefe.cn/concepts/entry-points/)
 
 
 
@@ -39,7 +40,7 @@
 - [one-div](http://one-div.com/)
 - [icomoon](https://icomoon.io/app/#/select)
 - [css箭头](http://www.cssarrowplease.com/)
-- [CSS三角形生成器](CSS triangle generator)
+- [CSS三角形生成器](http://apps.eky.hk/css-triangle-generator/)
 - [animation动画](http://www.w3cplus.com/blog/tags/29.html)
 - [csstriggers](https://csstriggers.com/)
 
@@ -105,8 +106,10 @@
 - [layDate - js日期控件与时间插件官方讲解](http://laydate.layui.com/)
 - [JS封装类实现年月日三级联动下拉列表](http://www.jq22.com/demo/YMDClass20160221/)
 - [js对输入文字个数的限制…](http://itakeo.com/blog/2015/07/13/jstextarea/?none=123)
-####正则表达式
+
+#### 正则表达式
 - [正则表达式前端使用手册](http://louiszhai.github.io/2016/06/13/regexp/#u5BFC_u8BFB)
+
 #### AngularJS
 - [AngularJS在线教程](http://each.sinaapp.com/angular/)
 
